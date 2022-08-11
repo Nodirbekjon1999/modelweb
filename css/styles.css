@@ -158,7 +158,7 @@ body{
 }
 
 .social-links img{
-  margin-bottom: 50px;
+  padding: 15px;
 }
 
 .social-links{
@@ -169,6 +169,6 @@ body{
   top: 50%;
   transform: translateY(50%);
 }
-.social-links :hover{
+.social-links img:hover{
   border: 1px solid #FFFFFF;
 }
